@@ -18,9 +18,9 @@ you should see the text box for commands when calling the linker, put the linker
 
 -=-=-=-=-=-=-=-=-=-   -=-=-=-=-=-=-=-=-=-   -=-=-=-=-=-=-=-=-=-
 
-to run the c# scripts, open in vscode and open new terminal
+to run the c# scripts, open cmd
 
-navigate to the desired script folder in powershell terminal using "cd [location]"
+navigate to the desired script folder in cmd using "cd [location]"
 
 and type in "dotnet run"
 
@@ -30,4 +30,18 @@ to run the python scripts, you need to have the library psutil installed
 
 to install this, open cmd and type "pip install psutil"
 
-after the download is finished then you can run the python scripts
+after the download is finished go to cmd
+
+navigate to the desired script folder in cmd using "cd [location]"
+
+and type in "python [filename].py"
+
+-=-=-=-=-=-=-=-=-=-   -=-=-=-=-=-=-=-=-=-   -=-=-=-=-=-=-=-=-=-
+
+to run the java scripts, open cmd
+
+navigate to the desired script folder in cmd using "cd [location]"
+
+type in "javac [filename].java"
+
+and then type in "java [filename]"
